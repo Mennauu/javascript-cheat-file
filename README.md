@@ -17,6 +17,7 @@ const = Value can never change (read-only)
 
 ## Escape sequences in strings
 ```javascript
+/*
 Code  Output
 
 \'    single quote
@@ -27,6 +28,7 @@ Code  Output
 \t    tab
 \b    backspace
 \f    form feed
+*/
 ```
 
 ## Concatenating Strings
